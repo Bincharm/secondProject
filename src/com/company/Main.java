@@ -13,6 +13,5 @@ public class Main {
         System.out.println(ballThree.anotherColor + " " + ballThree.price + " " + ballThree.radius + " " + ballThree.producerCountry);
 
 
-
     }
 }
