@@ -3,14 +3,14 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        Ball ballOne = new Ball();
+        Ball ballTwo = new Ball();
 
-        ballOne.anotherColor = "BLUE"; //null
-        ballOne.price = 20;
-        ballOne.radius = 6;
-        ballOne.producerCountry = "GERMANY";
+        ballTwo.anotherColor = "BLUE"; //null
+        ballTwo.price = 20;
+        ballTwo.radius = 6;
+        ballTwo.producerCountry = "GERMANY";
 
-        System.out.println(ballOne.anotherColor + " " + ballOne.price + " " + ballOne.radius + " " + ballOne.producerCountry);
+        System.out.println(ballTwo.anotherColor + " " + ballTwo.price + " " + ballTwo.radius + " " + ballTwo.producerCountry);
 
 
 
